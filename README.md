@@ -1,0 +1,1 @@
+All course materials are provided by Pierian Training as part of the Data Science and Machine Learning Training on Udemy. You can access the course via the following link: Python for Data Science and Machine Learning Bootcamp. https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=KEEPLEARNINGBR
